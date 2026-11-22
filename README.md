@@ -2,7 +2,8 @@
 
 **Try it live:** https://lumen-fceccf1e.vercel.app
 
-**Demo video:** [`demo-video/pastefix-demo.mp4`](demo-video/pastefix-demo.mp4)
+**Demo video:**
+https://github.com/user-attachments/assets/8fed2d14-2bd3-4eb5-880c-ea76031879a6
 
 **Pick a page, get an accessible one back, with proof.** Pastefix finds what blocks blind, low-vision and
 keyboard users, fixes what it can honestly fix, and proves every fix by running the same accessibility check
